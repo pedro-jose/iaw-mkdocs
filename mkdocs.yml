@@ -1,0 +1,28 @@
+# Project information
+site_name: 'Practica en MkDocs'
+site_description: 'Paginas para practcias de IAW'
+site_author: 'Pedro José Salvador Fajardo'
+site_url: 'https://squidfunk.github.io/mkdocs-material/'
+
+nav:
+    - Practica 3: practica3.md
+    - Practica HTTPS: practicahttps.md
+    - Acerca de: about.md
+
+# Repository
+repo_name: 'squidfunk/mkdocs-material'
+repo_url: 'https://github.com/squidfunk/mkdocs-material'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2017 Martin Donath'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
